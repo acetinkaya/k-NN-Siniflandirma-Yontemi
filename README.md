@@ -4,6 +4,8 @@
 
 ## Yayın Evi: Nobel Akademik Yayıncılık, 2024
 
+## Editör: Prof. Dr. Murat GÖK
+
 ![AlternatifMetin](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png)
 
 ----
