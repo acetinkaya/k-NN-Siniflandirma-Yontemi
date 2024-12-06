@@ -1,6 +1,6 @@
 # k-NN-Siniflandirma-Yontemi
 
-https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png
+![AlternatifMetin](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png)
 
  /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
 
