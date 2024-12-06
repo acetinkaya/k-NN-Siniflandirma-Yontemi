@@ -17,4 +17,4 @@ Yayın Evi: Nobel Akademik Yayıncılık
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
 
 - [**Prof. Dr. Murat GÖK**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)  
-  Yalova Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği, İstanbul / Türkiye
+  Yalova Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, Yalova / Türkiye
