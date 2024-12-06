@@ -28,11 +28,7 @@ Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları, M. Gök (
 
 ISBN no: 978-625-371-882-4
 
-Kitap Bölümü Bilgileri / Book Chapter Information: Bölüm 4.4. k-NN Siniflandirma Yontemi
-
- /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
-
-Çilek, A. & Şeyranlıoğlu, O. (eds.) (2024). Finans Alanında Güncel Uygulamalı Çalışmalar. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub488
+Kitap Bölümü Bilgileri / Book Chapter Information: Bölüm 4.4. k-NN Siniflandirma Yontemi, Makine Öğrenmesi Algoritmaları, Nobel Akademik Yayıncılık.
 
 Çetinkaya, A. & Gök, M. (2024). k-NN Siniflandirma Yontemi. In: Gök, M. (ed.), Makine Öğrenmesi Algoritmaları. Nobel Akademik Yayıncılık. ISBN no: 978-625-371-882-4
 
