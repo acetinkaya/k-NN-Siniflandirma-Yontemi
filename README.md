@@ -1,13 +1,10 @@
 # k-NN-Siniflandirma-Yontemi
 
+## Makine Öğrenmesi Algoritmaları Kitabı, Bölüm 4.4. k-NN Siniflandirma Yontemi 
 
- /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
-
-
+## Yayın Evi: Nobel Akademik Yayıncılık
 
 ![AlternatifMetin](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png)
-
-Yayın Evi: Nobel Akademik Yayıncılık
 
 ----
 
