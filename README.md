@@ -10,7 +10,7 @@
 
 ----
 
-## Bölüm 4.4. Yazarları / Author's 
+## Bölüm 4.4. Yazarları / Chapter 4.4. Authors
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
