@@ -33,4 +33,8 @@ Kitap Bölümü Bilgileri / Book Chapter Information: Bölüm 4.4. k-NN Siniflan
  /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
 
 Çilek, A. & Şeyranlıoğlu, O. (eds.) (2024). Finans Alanında Güncel Uygulamalı Çalışmalar. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub488
-Hamutoğlu, N. B. (2024). Eğitsel ve Yönetsel Perspektiften Tehlikeler ve Afet Dirençli Kentler. In: Tün, M. (ed.), Tehlikeler ve Afet Dirençli Kentler II. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub456.c1953
+
+Çetinkaya, A. & Gök, M. (2024). Eğitsel ve Yönetsel Perspektiften Tehlikeler ve Afet Dirençli Kentler. In: Tün, M. (ed.), Tehlikeler ve Afet Dirençli Kentler II. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub456.c1953
+
+Önder, Ö. & Güler, E. (2024). Türkiye’de Merkezi ve Yerel Yönetim Uyumsuzluğunda Dirençli Kentler Kritiği. In: Tün, M. (ed.), Tehlikeler ve Afet Dirençli Kentler II. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub456.c2214
+
