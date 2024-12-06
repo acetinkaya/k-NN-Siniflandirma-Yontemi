@@ -6,7 +6,6 @@ https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png
 
 https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html
 
-ISBN no: 978-625-371-882-4
 Yayın Evi: Nobel Akademik Yayıncılık
 
 ----
@@ -26,6 +25,9 @@ Yayın Evi: Nobel Akademik Yayıncılık
 ** Kitap İsmi / Book Title : Makine Öğrenmesi Algoritmaları
 
 Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları, M. Gök (ed.) 2024., Nobel Akademik Yayıncılık 
+
+ISBN no: 978-625-371-882-4
+
 
 Kitap Bölümü Bilgileri / Book Chapter Information: k-NN Siniflandirma Yontemi
 
