@@ -1,10 +1,11 @@
 # k-NN-Siniflandirma-Yontemi
 
-![AlternatifMetin](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png)
 
  /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
 
-https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html
+
+
+![AlternatifMetin](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png)
 
 Yayın Evi: Nobel Akademik Yayıncılık
 
@@ -32,4 +33,6 @@ Kitap Bölümü Bilgileri / Book Chapter Information:
 * Bölüm 4.4. k-NN Siniflandirma Yontemi, Makine Öğrenmesi Algoritmaları, Nobel Akademik Yayıncılık.  
 * Çetinkaya, A. & Gök, M. (2024). k-NN Siniflandirma Yontemi. In: Gök, M. (ed.), Makine Öğrenmesi Algoritmaları. Nobel Akademik Yayıncılık. ISBN no: 978-625-371-882-4
 
+---
+Kitap Erişim Sayfası: https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html
 
