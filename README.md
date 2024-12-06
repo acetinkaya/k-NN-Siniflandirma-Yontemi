@@ -29,6 +29,8 @@
 
 Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları, M. Gök (ed.) 2024., Nobel Akademik Yayıncılık 
 
+Kitap Anahtar Kelimeleri: Makine öğrenmesi, Yapay zeka, Veri bilimi
+
 ISBN no: 978-625-371-882-4  
 
 E-ISBN: 978-625-371-883-1
