@@ -18,3 +18,5 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 - [**Prof. Dr. Murat GÖK**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)  
   Yalova Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, Yalova / Türkiye
+  
+*For Correspondence: alcetinkaya@gelisim.edu.tr*
