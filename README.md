@@ -25,11 +25,11 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ** Kitap İsmi / Book Title : Makine Öğrenmesi Algoritmaları
 
-Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları. , Chapter from the book: Kaygusuz, K. (ed.) 2023. 
+Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları, M. Gök (ed.) 2024., Nobel Akademik Yayıncılık 
 
 Kitap Bölümü Bilgileri / Book Chapter Information: k-NN Siniflandirma Yontemi
 
  /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
 
 Çilek, A. & Şeyranlıoğlu, O. (eds.) (2024). Finans Alanında Güncel Uygulamalı Çalışmalar. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub488
-
+Hamutoğlu, N. B. (2024). Eğitsel ve Yönetsel Perspektiften Tehlikeler ve Afet Dirençli Kentler. In: Tün, M. (ed.), Tehlikeler ve Afet Dirençli Kentler II. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub456.c1953
