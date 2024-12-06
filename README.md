@@ -39,8 +39,9 @@ Yayın Tarihi / Published: Aralık / December, 2024
 
 ---
 
-[Kitap İnternet Sayfası](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html)
+[Kitap Yayıncı Sayfası - Nobel Akademik Yayıncılık](https://www.nobelyayin.com)
 
+[Kitap İnternet Sayfası](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html)
 
 Kitap Erişim Sayfası: 
 
