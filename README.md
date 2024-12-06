@@ -2,7 +2,7 @@
 
 https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png
 
- / Bölüm 4.4. k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
+ /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
 
 https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html
 
@@ -25,5 +25,9 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ** Kitap İsmi / Book Title : Makine Öğrenmesi Algoritmaları
 
-Kitap Bölümü Bilgileri / Book Chapter Information: Algorithm Design in Programming Language Education, Chapter from the book: Kaygusuz, K. (ed.) 2023. Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
+Kitap Bölümü Bilgileri / Book Chapter Information: k-NN Siniflandirma Yontemi, Chapter from the book: Kaygusuz, K. (ed.) 2023. Makine Öğrenmesi Algoritmaları.
+
+ /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
+
+Çilek, A. & Şeyranlıoğlu, O. (eds.) (2024). Finans Alanında Güncel Uygulamalı Çalışmalar. Özgür Yayınları. DOI: https://doi.org/10.58830/ozgur.pub488
 
