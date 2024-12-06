@@ -15,3 +15,6 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
+
+- [**Tuğba Saray Çetinkaya**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilişim Güvenliği Teknolojisi, İstanbul / Türkiye
