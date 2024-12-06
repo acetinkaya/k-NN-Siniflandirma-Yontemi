@@ -25,7 +25,9 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ** Kitap İsmi / Book Title : Makine Öğrenmesi Algoritmaları
 
-Kitap Bölümü Bilgileri / Book Chapter Information: k-NN Siniflandirma Yontemi, Chapter from the book: Kaygusuz, K. (ed.) 2023. Makine Öğrenmesi Algoritmaları.
+Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları. , Chapter from the book: Kaygusuz, K. (ed.) 2023. 
+
+Kitap Bölümü Bilgileri / Book Chapter Information: k-NN Siniflandirma Yontemi
 
  /  k-NN Siniflandirma Yontemi / Nobel Akademik Yayıncılık
 
