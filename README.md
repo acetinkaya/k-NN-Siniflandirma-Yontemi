@@ -13,8 +13,8 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ## Authors 
 
-- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
 
-- [**Prof. Dr. Murat GÖK**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)
-  Yalova Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Mühendisliği, İstanbul / Türkiye
+- [**Prof. Dr. Murat GÖK**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)  
+  Yalova Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği, İstanbul / Türkiye
