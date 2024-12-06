@@ -7,4 +7,3 @@ Makine Öğrenmesi Algoritmaları Kitabı / Bölüm 4.4. k-NN Siniflandirma Yont
 https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html
 
 ISBN no: 978-625-371-882-4
-
