@@ -16,5 +16,5 @@ Yayın Evi: Nobel Akademik Yayıncılık
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
 
-- [**Tuğba Saray Çetinkaya**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilişim Güvenliği Teknolojisi, İstanbul / Türkiye
+- [**Prof. Dr. Murat GÖK**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)
+  Yalova Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Mühendisliği, İstanbul / Türkiye
