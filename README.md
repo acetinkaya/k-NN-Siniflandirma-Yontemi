@@ -11,7 +11,7 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ----
 
-## Authors 
+## Yazarlar / Authors 
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
@@ -23,4 +23,7 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ---
 
-** Book Title / Kitap İsmi: Makine Öğrenmesi Algoritmaları
+** Kitap İsmi / Book Title : Makine Öğrenmesi Algoritmaları
+
+Book Chapter Information / Kitap Bölümü Bilgileri: Algorithm Design in Programming Language Education, Chapter from the book: Kaygusuz, K. (ed.) 2023. Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
+
