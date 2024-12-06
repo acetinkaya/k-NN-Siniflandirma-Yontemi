@@ -29,7 +29,9 @@
 
 Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları, M. Gök (ed.) 2024., Nobel Akademik Yayıncılık 
 
-ISBN no: 978-625-371-882-4
+ISBN no: 978-625-371-882-4  
+
+E-ISBN: 978-625-371-883-1
 
 Kitap Bölümü Bilgileri / Book Chapter Information:  
 * Bölüm 4.4. k-NN Siniflandirma Yontemi, Makine Öğrenmesi Algoritmaları, Nobel Akademik Yayıncılık.  
