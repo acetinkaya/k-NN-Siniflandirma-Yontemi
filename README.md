@@ -37,8 +37,6 @@ Kitap Bölümü Bilgileri / Book Chapter Information:
 
 Yayın Tarihi / Published: Aralık / December, 2024
 
----
-
 [Kitap Yayıncı Sayfası - Nobel Akademik Yayıncılık](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html)
 
 ---
