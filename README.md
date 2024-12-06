@@ -28,8 +28,7 @@ Kitap Bilgileri / Book Information: Makine Öğrenmesi Algoritmaları, M. Gök (
 
 ISBN no: 978-625-371-882-4
 
-Kitap Bölümü Bilgileri / Book Chapter Information: 
-
+Kitap Bölümü Bilgileri / Book Chapter Information:  
 * Bölüm 4.4. k-NN Siniflandirma Yontemi, Makine Öğrenmesi Algoritmaları, Nobel Akademik Yayıncılık.  
 * Çetinkaya, A. & Gök, M. (2024). k-NN Siniflandirma Yontemi. In: Gök, M. (ed.), Makine Öğrenmesi Algoritmaları. Nobel Akademik Yayıncılık. ISBN no: 978-625-371-882-4
 
