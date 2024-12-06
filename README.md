@@ -11,7 +11,7 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ----
 
-## Authors
+## Authors 
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
