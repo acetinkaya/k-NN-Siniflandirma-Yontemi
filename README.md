@@ -25,5 +25,5 @@ Yayın Evi: Nobel Akademik Yayıncılık
 
 ** Kitap İsmi / Book Title : Makine Öğrenmesi Algoritmaları
 
-Book Chapter Information / Kitap Bölümü Bilgileri: Algorithm Design in Programming Language Education, Chapter from the book: Kaygusuz, K. (ed.) 2023. Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
+Kitap Bölümü Bilgileri / Book Chapter Information: Algorithm Design in Programming Language Education, Chapter from the book: Kaygusuz, K. (ed.) 2023. Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
 
