@@ -18,7 +18,7 @@
 
 
 - [**Prof. Dr. Murat GÖK**](https://scholar.google.com.tr/citations?user=rzFDje4AAAAJ)  
-  Yalova Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, Yalova / Türkiye
+  Yalova Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, Yalova / Türkiye  
   Department of Computer Engineering, Faculty of Engineering, Yalova University, Yalova, Turkey
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
