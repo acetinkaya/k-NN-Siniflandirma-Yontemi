@@ -20,3 +20,7 @@ Yayın Evi: Nobel Akademik Yayıncılık
   Yalova Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, Yalova / Türkiye
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
+
+---
+
+** Book Title / Kitap İsmi: 
