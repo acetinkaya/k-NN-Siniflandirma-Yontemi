@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/26243292-63f3-46ef-a75b-3ab1874f9da0)# k-NN-Siniflandirma-Yontemi
+# k-NN-Siniflandirma-Yontemi
 
 ## Makine Öğrenmesi Algoritmaları Kitabı, Bölüm 4.4. k-NN Siniflandirma Yontemi 
 
