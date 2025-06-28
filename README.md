@@ -1,4 +1,4 @@
-# k-NN-Siniflandirma-Yontemi
+![image](https://github.com/user-attachments/assets/26243292-63f3-46ef-a75b-3ab1874f9da0)# k-NN-Siniflandirma-Yontemi
 
 ## Makine Öğrenmesi Algoritmaları Kitabı, Bölüm 4.4. k-NN Siniflandirma Yontemi 
 
@@ -42,6 +42,10 @@ Kitap Bölümü Bilgileri / Book Chapter Information:
 Yayın Tarihi / Published: Aralık / December, 2024
 
 [Kitap Yayıncı Sayfası - Nobel Akademik Yayıncılık](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html)
+
+---
+
+Çetinkaya A, Gök M, “k-NN Sınıflandırma Yöntemi”. Makine Öğrenmesi Algoritmaları (pp.186-198), Ankara: Nobel Yayınevi, 2024.
 
 ---
 
